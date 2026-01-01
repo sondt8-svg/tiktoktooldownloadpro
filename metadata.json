@@ -1,0 +1,8 @@
+{
+  "name": "Tiktok download pro",
+  "description": "High-speed, AI-powered TikTok video downloader with a premium tech-style dark interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
